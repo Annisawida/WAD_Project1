@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head> 
+	<title>Curriculum Vitae Annisa</title>
+<head>
+<body>
+	<h1>Curriculum Vitae</h1>
+	<br><img src = "ANNISA.jpg" width = "200 px">
+	<hr></hr>
+	<p><strong> PROFILE </p></strong>
+	<p> Nama : Annisa Wida Mutya </p>
+	<p> Kontak : 082136889889 </p>
+	<p> Email : annisa.wida23@gmail.com </p>
+	<hr></hr>
+	<p><strong> ABOUT ME </p></strong>
+	<p> a college student who is enthusiastic and passionate about trying new
+experiences in work and organization followed by hard work and social
+skills </p>
+	<hr></hr>
+	<p><strong> RIWAYAT PENDIDIKAN </p></strong>
+	<table border = "1">
+		<tr>
+			<td>Jenjang Pendidikan</td>
+			<td>Nama Sekolah/Perguruan Tinggi</td>
+			<td>Tahun Masuk</td>
+		</tr>
+		<tr>
+			<td>SMA</td>
+			<td>SMA Negeri 1 Samarinda</td>
+			<td>2018</td>
+		</td>
+</body>
+</html>
